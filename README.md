@@ -6,7 +6,8 @@
 
 <p align="center"> <i> Sistema Para Login e Cadastro em Java com JPA </i> </p>
 
-![java](https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=white)
+<img align="center" alt="JP-HTML" height="80" width="80" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183669.png?token=exp=1659462405~hmac=5b03ca6b06360b4699d50a37a3c78600">
+
 
 
 </div>
@@ -18,10 +19,11 @@
 <h1>🖼️ Imagens </h1>
 
 <h4 align="center">Tela de Cadastro </h4>
-<img align="center" alt="JP-HTML" height="500" width="500" src="https://user-images.githubusercontent.com/71307203/182430368-0f65ade0-0263-48ca-b5ef-626c08b472e0.png">
+<img align="center" alt="JP-HTML" height="500" width="450" src="https://user-images.githubusercontent.com/71307203/182430368-0f65ade0-0263-48ca-b5ef-626c08b472e0.png">
 
+##
 <h4>Tela de Login </h4>
-<img align="center" alt="JP-HTML" height="500" width="500" src="https://user-images.githubusercontent.com/71307203/182430520-d9f6a0da-07ee-4c5f-9a57-9d12cd624f07.png">
+<img align="center" alt="JP-HTML" height="500" width="400" src="https://user-images.githubusercontent.com/71307203/182430520-d9f6a0da-07ee-4c5f-9a57-9d12cd624f07.png">
 
 
 </div>
